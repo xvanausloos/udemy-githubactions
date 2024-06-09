@@ -1,6 +1,7 @@
 /**
  * @see https://playwright.dev/docs/test-configuration
  * @type {import('@playwright/test').PlaywrightTestConfig}
+ * koko
  */
 const config = {
   testDir: './tests',
